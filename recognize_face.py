@@ -14,7 +14,7 @@ known_face_encodings = []
 known_face_names = []
 dirname = os.path.dirname(__file__)
 
-# NOTE: Create "faces" folder under this code directory, and place your known faces photos there 
+# NOTE: Create "faces" folder under this code's directory, and place your known faces photos there 
 
 path = os.path.join(dirname, 'faces/')
 
